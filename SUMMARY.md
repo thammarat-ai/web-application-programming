@@ -4,7 +4,7 @@
 
 ## Introduction to web application programming
 
-* [ความรู้พื้นฐานเกี่ยวกับอินเทอร์เน็ตและเว็บ](introduction-to-web-application-programming/undefined.md)
+* [ความรู้พื้นฐานเกี่ยวกับอินเทอร์เน็ตและเว็บไซต์](introduction-to-web-application-programming/undefined.md)
 
 ## HTML, CSS
 
