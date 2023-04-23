@@ -19,7 +19,7 @@
 
 * เมื่อเราเปิดไฟล์นี้ในเบราว์เซอร์ เราจะได้รับ:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ตอนนี้ เรามาพูดถึงไฟล์ที่เราเพิ่งเขียน ซึ่งดูเหมือนจะค่อนข้างซับซ้อน สำหรับการเห็นครั้งแรก
 

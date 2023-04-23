@@ -71,6 +71,6 @@
 
 * หน้านี้เมื่อแสดงผลจะมีลักษณะดังนี้:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * ในกรณีที่คุณกังวลเกี่ยวกับเรื่องนี้ ให้รู้ว่าคุณจะไม่ต้องจำองค์ประกอบเหล่านี้อีกต่อไป มันง่ายมากที่จะค้นหาบางอย่างเช่น "image in HTML" เพื่อค้นหาแท็ก img แหล่งข้อมูลหนึ่งที่เป็นประโยชน์อย่างยิ่งสำหรับการเรียนรู้เกี่ยวกับองค์ประกอบเหล่านี้คือ [W3 Schools](https://www.w3schools.com/html/html\_elements.asp)
