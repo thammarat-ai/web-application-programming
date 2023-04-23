@@ -1,5 +1,8 @@
 ---
 description: ยินดีต้อนรับเข้าสู่รายวิชา 225321 การโปรแกรมเว็บแอพพลิเคชัน
+cover: >-
+  https://images.unsplash.com/photo-1661956600684-97d3a4320e45?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MXwxfHNlYXJjaHw4fHxkZXZlbG9wZXJ8ZW58MHx8fHwxNjgyMTc2MDkx&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Welcome
