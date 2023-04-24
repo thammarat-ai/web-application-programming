@@ -149,7 +149,7 @@ th {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 * คุณอาจคิดว่ามีการซ้ำซ้อนโดยไม่จำเป็นใน CSS ของเราในขณะนี้ เนื่องจาก td และ th มีรูปแบบเหมือนกัน เราสามารถ (และควร) ย่อสิ่งนี้ลงในโค้ดต่อไปนี้ โดยใช้เครื่องหมายจุลภาคเพื่อแสดงสไตล์ควรใช้กับองค์ประกอบมากกว่าหนึ่งประเภท
 
@@ -221,7 +221,7 @@ td, th {
 <html>
 ```
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Attributes as Selectors (**ตัวเลือกแอตทริบิวต์**)**: นอกจากนี้ เรายังสามารถจำกัดการเลือกให้แคบลงตามแอตทริบิวต์ที่เรากำหนดให้กับองค์ประกอบ HTML โดยใช้วงเล็บเหลี่ยม ตัวอย่างเช่น ในรายการลิงก์ต่อไปนี้ เราเลือกที่จะทำให้ลิงก์ไปยัง Amazon เป็นสีแดงเท่านั้น:
 
@@ -247,7 +247,7 @@ td, th {
 <html>
 ```
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * ไม่เพียงแต่เราสามารถใช้ CSS เพื่อเปลี่ยนรูปลักษณ์ขององค์ประกอบอย่างถาวร แต่ยังรวมถึงรูปลักษณ์ของมันภายใต้เงื่อนไขบางประการด้วย ตัวอย่างเช่น จะทำอย่างไรถ้าเราต้องการให้ปุ่มเปลี่ยนสีเมื่อเราวางเมาส์เหนือปุ่มนั้น เราสามารถทำได้โดยใช้ [CSS pseudoclass](https://www.w3schools.com/css/css\_pseudo\_classes.asp), ซึ่งให้สไตล์เพิ่มเติมในสถานการณ์พิเศษ เราเขียนสิ่งนี้โดยเพิ่มเครื่องหมายจุดคู่หลังตัวเลือกของเรา แล้วจึงเพิ่มสถานการณ์ตามหลังเครื่องหมายจุดคู่นั้น
 * ในกรณีของปุ่ม, เราจะเพิ่ม `:hover` ไปยังตัวเลือกปุ่มเพื่อระบุการออกแบบเมื่อวางเมาส์เหนือเท่านั้น:
