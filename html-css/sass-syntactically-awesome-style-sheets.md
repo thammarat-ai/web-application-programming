@@ -15,7 +15,7 @@
 
 ในขณะที่ใช้ Sass เรายังสามารถซ้อนสไตล์ของเราได้แทนที่จะใช้ตัวเลือก CSS ที่เราพูดถึงก่อนหน้านี้ ตัวอย่างเช่น หากเราต้องการใช้สไตล์เฉพาะกับย่อหน้าและรายการที่ไม่เรียงลำดับภายใน div เราสามารถเขียนได้ดังนี้:
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 เมื่อคอมไพล์เป็น CSS แล้ว เราจะได้ไฟล์ที่มีลักษณะดังนี้
 
@@ -25,4 +25,4 @@
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
